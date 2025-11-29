@@ -1,7 +1,7 @@
 # Five-Nights-at-Freddy-s-4-Manual-Archipelago
 A Manual for Archipellago made for use on the game Five Nights at Freddy's 4
 
-# How-to
+# How-to-Play
 Spot all the main animatronics for checks Except Foxy because that goes against what you want to do in gameplay
 It is also included for all night completions as well as and Tomorrow is another day
 
